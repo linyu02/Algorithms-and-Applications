@@ -4,7 +4,8 @@ This repository includes assignments from (Stat 34560) Fundamentals of Computati
 
 These projects demonstrate my ability to apply computational and statistical techniques to real-world problems — skills directly relevant to roles in data science and quantitative research.
 
-Job-Relevant Skills
+Job-Relevant Skills: 
+
 -Algorithm Design: Dynamic programming, graph algorithms, optimization
 
 -Statistical Modeling: PCA, Lasso/Ridge regression, classification
